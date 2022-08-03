@@ -1,0 +1,7 @@
+normal_people;fleabag;1.00
+normal_people;friends;0.50
+seinfeld;friends;1.00
+friends;seinfeld;0.67
+fleabag;normal_people;1.00
+normal_people,fleabag;friends;0.50
+fleabag;friends;0.50

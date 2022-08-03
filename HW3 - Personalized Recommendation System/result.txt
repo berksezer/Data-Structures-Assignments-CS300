@@ -1,0 +1,14 @@
+true_detective;prison_break;0.75
+seinfeld;true_detective;0.75
+lost;prison_break;0.86
+true_detective,prison_break;lost;1.00
+true_detective;prison_break,lost;0.75
+true_detective,lost;seinfeld;0.67
+true_detective,lost;prison_break;1.00
+true_detective,seinfeld;prison_break,lost;0.67
+true_detective;lost;0.75
+prison_break;lost;0.86
+true_detective;seinfeld;0.75
+true_detective,prison_break;seinfeld;0.67
+true_detective,seinfeld;lost;0.67
+true_detective,seinfeld;prison_break;0.67
